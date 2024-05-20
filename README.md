@@ -1,3 +1,23 @@
+
+
+
+1-Frontend with Next.js using Next Auth:
+*Set up a Next.js project.
+*Integrate Next Auth for user authentication.
+*Implement user login functionality.
+*Implement user registration functionality.
+*Create a user dashboard page.
+*Fetch and display a list of users on the dashboard page.
+2-Backend API's in Next.js:
+*Create API routes for user login and registration.
+*Implement endpoints for fetching all users' details.
+*Integrate Swagger for API documentation.
+
+env sample:
+MONGODB_URI=
+NEXTAUTH_SECRET=nextauth
+NEXTAUTH_URL=http://localhost:3000
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
